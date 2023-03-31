@@ -1,5 +1,8 @@
 package cuentas;
-
+/**
+ * 
+ * @author TenzZ
+ */
 public class CCuenta {
 
     /**
